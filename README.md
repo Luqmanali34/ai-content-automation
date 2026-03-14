@@ -24,3 +24,9 @@ This project helps creators, founders, and marketers automate their content work
 
 ## Maintainer
 Luqman Ali
+
+## Future Plans
+
+- AI prompt library
+- automation workflows
+- contributor documentation
